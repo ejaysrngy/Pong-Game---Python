@@ -1,6 +1,6 @@
 # Pong - Python
 
-A project from 100 days of Code from Udemy
+A project from 100 days of Code from Udemy <br />
 Just a simple pong game but, instead of taking hints from the videos in the tutorial, I tried to do it on my own and thankfully I was able to finish it on my own, while only checking for hints once (for the mov't of the ball when it bounces from the wall)
 
 It was made using the Turtle module.
