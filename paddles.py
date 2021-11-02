@@ -1,5 +1,7 @@
 from turtle import Turtle, Screen
 
+# 2. Make paddles (have them move up and down); use different coordinates for up and down
+#   since the leading head will be either the first or last item on the list
 
 STARTING_POSN = [(-400, 0), (-400, 20), (-400, 40), (-400, 60)]
 
@@ -78,7 +80,6 @@ class EnemyPaddles:
             i.goto(new_x, new_y)
 
 
-# 2. Make paddles (have them move up and down); use different coordinates for up and down
-#   since the leading head will be either the first or last item on the list
+
 
 
